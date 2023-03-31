@@ -1,0 +1,10 @@
+apache2
+fail2ban
+iptables
+openssh-server
+mosh
+sshfs
+htop
+atop
+net-tools
+wireguard
