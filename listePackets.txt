@@ -8,3 +8,4 @@ htop
 atop
 net-tools
 wireguard
+screen
